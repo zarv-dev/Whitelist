@@ -1,5 +1,18 @@
 {
-  "whitelistedUsers": [
-    123456789
+  "level5Users": [
+    123456789,
+    987654321
+  ],
+  "groups": [
+    {
+      "groupId": 15769703,
+      "minRank": 255,
+      "level": 4
+    },
+    {
+      "groupId": 99999999,
+      "minRank": 100,
+      "level": 3
+    }
   ]
 }
