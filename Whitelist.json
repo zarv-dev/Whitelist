@@ -1,17 +1,17 @@
 {
   "level5Users": [
-    123456789,
-    987654321
+    1,
+    23
   ],
   "groups": [
     {
-      "groupId": 15769703,
+      "groupId": 656064968,
       "minRank": 255,
       "level": 4
     },
     {
-      "groupId": 99999999,
-      "minRank": 100,
+      "groupId": 1,
+      "minRank": 1,
       "level": 3
     }
   ]
